@@ -7,8 +7,8 @@ For demonstrations purposes only.
 
 Don't try to merge conflict at home.
 
-Shopping list for the ultimate chocolate smoothie
-item 1 - bananas
+Shopping list for the amazing chocolate smoothie
+item 1 - peanut butter
 item 2 - cocoa powder
 item 3 - oatmeal
-item 4 - peanut butter
+item 4 - bananas
