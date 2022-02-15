@@ -1,0 +1,14 @@
+---
+title: "Demo"
+output: html_document
+---
+
+For demonstrations purposes only.
+
+Don't try to merge conflict at home.
+
+Shopping list for the ultimate chocolate smoothie
+item 1 - bananas
+item 2 - cocoa powder
+item 3 - oatmeal
+item 4 - peanut butter
